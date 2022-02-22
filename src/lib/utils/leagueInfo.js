@@ -24,11 +24,18 @@ I feel it in the earth.
 I smell it in the air.
 
 Much that once was is lost, for none now live who remember it.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>It began with the forging of the Great Leagues.</p>
+  <p>One was given to the Seasonal Leaguers, shortest, wisest and easiest of all leagues.</p>
+  <p>One to the Redrafters, great drafters and managers of the renewing leagues.</p>
+  <p>And One, one league was gifted to the race of plebs and sussy baka's, who above all else desire free leagues.</p>
+  <p>For within these leagues was bound the strength and the will to govern each race.</p>
+  <p>But they were all of them deceived, for another league was made.</p>
+  <p>Deep in the app of Sleeper, the Dark Lord Patocal forged a master league, and into this league he poured his draft addiction, his greed and his will for a never-ending dynasty.</p>
+  
+  
+
+  
+  <p>One League To Rule Them All.</p>
 `;
 
 /*   STEP 3   */
