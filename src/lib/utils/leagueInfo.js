@@ -290,6 +290,28 @@ export const managers = [
       "tradingScale": 7, // 1 - 10
       "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
+  {
+      "roster": 16,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "name": "Blang1120",
+      "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "location": "New York", // (optional)
+      "bio": "I'm here as part of this leauge, repping for the Titans fans out there. For me this league is mainly about watching all the drama unfold over all of the ridiculous trades, and hopefully i'll win a bunch of money at the end of it.",
+      "photo": "/managers/question.jpg", // square ratio recommended (no larger than 500x500)
+      "fantasyStart": 2007, // (optional) when did the manager start playing fantasy football
+      "favoriteTeam": "ten", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
+      "rival": {
+        name: "Smokinjay808", // Can be anything (usually your rival's name)
+        link: 6, // manager array number within this array, or null to link back to all managers page
+        image: "/managers/tylermonge.PNG", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+      },
+      "favoritePlayer": 3233, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      "valuePosition": "TE", // (optional) Favorite position (QB, WR, RB, TE, etc.)
+      "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
+      "philosophy": "Wait on QB in the draft, get depth at RB and avoid players with repetitive injury history.",
+      "tradingScale": 8, // 1 - 10
+      "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
+    },
   ]
   
   
