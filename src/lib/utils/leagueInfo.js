@@ -185,7 +185,7 @@ export const managers = [
       "name": "smokinjay808",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Hawaii", // (optional)
-      "bio": "null",
+      "bio": "Harley rider, big wave surfer, fantasy god, Slava Ukraine",
       "photo": "/managers/tylermonge.PNG", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "no", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
