@@ -318,7 +318,7 @@ export const managers = [
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "New York", // (optional)
       "bio": "I'm here as part of this leauge, repping for the Titans fans out there. For me this league is mainly about watching all the drama unfold over all of the ridiculous trades, and hopefully i'll win a bunch of money at the end of it.",
-      "photo": "/managers/question.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/blang.PNG", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2007, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ten", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
